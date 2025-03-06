@@ -1,0 +1,6 @@
+id_incidente,severidad,status_incidente,id_despliegue
+1,High,Open,3
+2,Medium,Closed,8
+3,Low,Open,5
+4,High,Closed,3
+5,Medium,Open,8

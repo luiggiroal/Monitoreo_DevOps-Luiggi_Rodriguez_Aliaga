@@ -1,0 +1,11 @@
+id_pipeline,nombre,repositorio_url,id_equipo
+1,Alpha CI/CD,https://github.com/alpha/main,1
+2,Beta Deployment,https://gitlab.com/beta/core,2
+3,Gamma Microservices,https://bitbucket.org/gamma/api,3
+4,Delta Web App,https://github.com/delta/frontend,4
+5,Epsilon Backend,https://gitlab.com/epsilon/backend,5
+6,Zeta Data Pipeline,https://github.com/zeta/etl,6
+7,Eta Mobile App,https://bitbucket.org/eta/android,7
+8,Theta IoT System,https://github.com/theta/edge,8
+9,Iota AI Model,https://gitlab.com/iota/ml,9
+10,Kappa Legacy,https://github.com/kappa/old-system,10

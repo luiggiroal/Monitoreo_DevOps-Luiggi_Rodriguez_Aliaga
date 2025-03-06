@@ -1,0 +1,4 @@
+id_entorno,nombre,tipo
+1,Production,Prod
+2,Staging Area,Staging
+3,Testing Lab,Test
