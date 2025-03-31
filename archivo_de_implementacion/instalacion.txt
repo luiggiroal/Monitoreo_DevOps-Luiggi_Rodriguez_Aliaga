@@ -1,0 +1,12 @@
+Para instalar correctamente la base de datos de Monitoreo DevOps, primero acceda a la carpeta 'archivos_sql'.
+Luego, ejecute los archivos sql en el orden indicado a continuación:
+
+- '0_Creacion_base_datos.sql' -> Crea el esquema de la base de datos.
+- '1_Creacion_tablas.sql' -> Genera las tablas.
+- '2_Insercion_datos.sql' -> Introduce registros en las tablas creadas.
+- '3_Creacion_vistas.sql' -> Crea vistas que proveen información relevante.
+- '4_Creacion_funciones.sql' -> Construye funciones de utilidad.
+- '5_Creacion_stored_procedures.sql' -> Genera procedimientos que brindan información detallada.
+- '6_Creacion_triggers.sql' -> Crea una tabla de auditoría y disparadores.
+- '7_Creacion_usuarios_permisos.sql' -> Genera a los usuarios que utilizarán la base de datos.
+- '8_Creacion_transacciones.sql' -> Construye transacciones dentro de stored procedures.
